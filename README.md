@@ -1,1 +1,1 @@
-# ServerBoi
+# ServerBoi be thin
